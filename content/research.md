@@ -6,7 +6,7 @@ title: Research
 
 ![covid_lungs](/assets/img/Grads.png)
 
-- [Explainable AI - Explanation of XGBoost & SVM models of Brain Stroke disease prediction](https://raw.githubusercontent.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/XAI_Shap_BrainStroke_notebook.ipynb)
+- [Explainable AI - Explanation of XGBoost & SVM models of Brain Stroke disease prediction](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/XAI_Shap_BrainStroke_notebook.ipynb)
 
 ![XAI_BrainStroke4](/assets/img/xai_4.png)
 ![XAI_BrainStroke1](/assets/img/xai_1.png)
