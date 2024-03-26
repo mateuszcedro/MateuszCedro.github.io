@@ -9,5 +9,3 @@ Hi! My name is Mateusz Cedro. I am starting a PhD in Explainable AI (granted by 
 ### Research Interests
 Explainable AI, Graph Neural Networks, Drug Discovery, Recommendation Systems 
 
-### Employment
-
