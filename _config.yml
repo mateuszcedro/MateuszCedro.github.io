@@ -22,7 +22,8 @@ author: Mateusz Cedro
 navbar-links:
   About Me: "aboutme"
   Research: "content/publications"
-  Outreach: "content/presentations"
+  Contact: "content/contact"
+  # Outreach: "content/presentations"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
