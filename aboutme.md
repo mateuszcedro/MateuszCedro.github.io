@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Mateusz Cedro
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! My name is Mateusz Cedro. I am a PhD Researcher (fellowship granted by the Research Foundation-Flanders) in the [Applied Data Mining group](https://admantwerp.github.io/) at the University of Antwerp. Supervised by Professor David Martens. My main focus concerns the Explainable AI methods in Graph Neural Networks.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Research Interests
+Explainable AI, Graph Neural Networks, Drug Discovery, Recommendation Systems 
 
-What else do you need?
+### Employment
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
